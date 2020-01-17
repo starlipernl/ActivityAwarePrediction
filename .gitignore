@@ -1,0 +1,16 @@
+#ignore all mat data files
+*.mat
+
+#ignored all word docs
+*.doc
+*.docx
+
+#ignore csv, excel
+*.csv
+*.xls
+*.xlsx
+
+#ignore data and results folders
+Data/
+results/
+results_phase2/
